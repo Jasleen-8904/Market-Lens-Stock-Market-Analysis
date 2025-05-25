@@ -1,5 +1,5 @@
 # Market Lens : Stock Market Analysis
-## 📊 Advanced Power BI Dashboard – Sales and Profit Analytics
+###📊 Advanced Power BI Dashboard – Sales and Profit Analytics
 
 ## 🔍 Project Overview
 This project presents an advanced Power BI dashboard that provides deep insights into sales performance, profitability, and product-level trends across regions and retailers. It was designed to enhance data-driven decision-making through powerful visual storytelling and custom analytics.
