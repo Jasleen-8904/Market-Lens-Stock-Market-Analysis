@@ -6,6 +6,18 @@ This project presents an advanced Power BI dashboard that provides deep insights
 
 ---
 
+## 🌐 Data Source — 🔴 Live Data via Alpha Vantage API
+This dashboard uses **live financial data** retrieved from the [Alpha Vantage API](https://www.alphavantage.co/), enabling **real-time insights** into product-level sales, stock prices, and market trends.
+
+🔑 API Features Used:
+- Real-time stock price tracking
+- Daily time series data
+- Integrated directly into Power BI using **Web connector + API key**
+
+> ⚠️ **Note:** To refresh the data, you will need your own Alpha Vantage API key (free to generate on their website).
+
+---
+
 ## 🛠️ Features
 - ✅ Dynamic KPIs (Total Revenue, Total Profit, Units Sold, Avg Operating Margin)
 - 📅 Time-based trend analysis (Monthly Invoice data)
@@ -43,15 +55,23 @@ This project presents an advanced Power BI dashboard that provides deep insights
 ## 🧰 Tools & Technologies
 - Microsoft Power BI Desktop  
 - DAX (Data Analysis Expressions)  
+- Alpha Vantage API (Live JSON feed)  
 - Data Modeling & Relationships  
 - Visualization: Card, Bar, Line, Map, Matrix, Pie, Slicer
+
+---
+
+## 📸 Preview
+*(Insert screenshot of your dashboard here)*
 
 ---
 
 ## 🚀 How to Use
 1. Download or clone this repository.
 2. Open the `.pbix` file in Power BI Desktop.
-3. Explore the reports, interact with slicers, and customize visuals as needed.
+3. Replace the Alpha Vantage API key with your own if prompted.
+4. Click **Refresh** to pull live data from the API.
+5. Explore and customize the dashboard.
 
 ---
 
