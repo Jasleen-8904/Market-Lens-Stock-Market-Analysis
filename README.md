@@ -61,11 +61,6 @@ This dashboard uses **live financial data** retrieved from the [Alpha Vantage AP
 
 ---
 
-## 📸 Preview
-*(Insert screenshot of your dashboard here)*
-
----
-
 ## 🚀 How to Use
 1. Download or clone this repository.
 2. Open the `.pbix` file in Power BI Desktop.
